@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "berindor",
   "description": "A project to learn the basics of back end development and APIs on freeCodeCamp.",
+  "keywords": [
+    "freecodecamp",
+    "back end",
+    "API"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
